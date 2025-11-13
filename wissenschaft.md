@@ -1,4 +1,3 @@
-````markdown
 ## Paraphrasen-Check
 
 Prüft, ob eine Paraphrase die ursprüngliche Bedeutung korrekt wiedergibt.
@@ -79,7 +78,4 @@ Checkt, ob alle zentralen Elemente enthalten sind.
 ```markdown
 Hier ist mein Abstract: (EINFÜGEN).  
 Prüfe, ob Forschungsfrage, Methode, Ergebnisse und Schlussfolgerungen vollständig und klar dargestellt sind.
-```
-
-```
 ```
